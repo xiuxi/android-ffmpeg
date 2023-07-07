@@ -1,0 +1,14 @@
+prefix=//build/bin
+exec_prefix=${prefix}
+libdir=//build/bin/lib
+includedir=//build/bin/include
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 57.107.100
+Requires: libavutil >= 55.78.100
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavcodec -lx264 -lfdk-aac -lm -lz -lgcc
+Libs.private: 
+Cflags: -I${includedir}

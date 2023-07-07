@@ -1,0 +1,99 @@
+libSYS/src/cmdl_parser.lo: libSYS/src/cmdl_parser.cpp \
+ /arm64-android-toolchain/lib/gcc/aarch64-linux-android/4.9.x/include/stdarg.h \
+ /arm64-android-toolchain/sysroot/usr/include/stdio.h \
+ /arm64-android-toolchain/sysroot/usr/include/sys/cdefs.h \
+ /arm64-android-toolchain/sysroot/usr/include/sys/cdefs_elf.h \
+ /arm64-android-toolchain/sysroot/usr/include/android/api-level.h \
+ /arm64-android-toolchain/sysroot/usr/include/sys/types.h \
+ /arm64-android-toolchain/lib/gcc/aarch64-linux-android/4.9.x/include/stddef.h \
+ /arm64-android-toolchain/lib/gcc/aarch64-linux-android/4.9.x/include/stdint.h \
+ /arm64-android-toolchain/sysroot/usr/include/stdint.h \
+ /arm64-android-toolchain/sysroot/usr/include/machine/wchar_limits.h \
+ /arm64-android-toolchain/sysroot/usr/include/linux/types.h \
+ /arm64-android-toolchain/sysroot/usr/include/asm/types.h \
+ /arm64-android-toolchain/sysroot/usr/include/asm-generic/types.h \
+ /arm64-android-toolchain/sysroot/usr/include/asm-generic/int-ll64.h \
+ /arm64-android-toolchain/sysroot/usr/include/asm/bitsperlong.h \
+ /arm64-android-toolchain/sysroot/usr/include/asm-generic/bitsperlong.h \
+ /arm64-android-toolchain/sysroot/usr/include/linux/posix_types.h \
+ /arm64-android-toolchain/sysroot/usr/include/linux/stddef.h \
+ /arm64-android-toolchain/sysroot/usr/include/linux/compiler.h \
+ /arm64-android-toolchain/sysroot/usr/include/asm/posix_types.h \
+ /arm64-android-toolchain/sysroot/usr/include/asm-generic/posix_types.h \
+ /arm64-android-toolchain/sysroot/usr/include/sys/sysmacros.h \
+ /arm64-android-toolchain/sysroot/usr/include/string.h \
+ /arm64-android-toolchain/sysroot/usr/include/malloc.h \
+ /arm64-android-toolchain/sysroot/usr/include/xlocale.h \
+ /arm64-android-toolchain/sysroot/usr/include/stdlib.h \
+ /arm64-android-toolchain/sysroot/usr/include/alloca.h \
+ /arm64-android-toolchain/sysroot/usr/include/strings.h \
+ /arm64-android-toolchain/sysroot/usr/include/memory.h \
+ /arm64-android-toolchain/sysroot/usr/include/ctype.h \
+ libSYS/include/cmdl_parser.h libSYS/include/machine_type.h \
+ libSYS/include/genericStds.h
+
+/arm64-android-toolchain/lib/gcc/aarch64-linux-android/4.9.x/include/stdarg.h:
+
+/arm64-android-toolchain/sysroot/usr/include/stdio.h:
+
+/arm64-android-toolchain/sysroot/usr/include/sys/cdefs.h:
+
+/arm64-android-toolchain/sysroot/usr/include/sys/cdefs_elf.h:
+
+/arm64-android-toolchain/sysroot/usr/include/android/api-level.h:
+
+/arm64-android-toolchain/sysroot/usr/include/sys/types.h:
+
+/arm64-android-toolchain/lib/gcc/aarch64-linux-android/4.9.x/include/stddef.h:
+
+/arm64-android-toolchain/lib/gcc/aarch64-linux-android/4.9.x/include/stdint.h:
+
+/arm64-android-toolchain/sysroot/usr/include/stdint.h:
+
+/arm64-android-toolchain/sysroot/usr/include/machine/wchar_limits.h:
+
+/arm64-android-toolchain/sysroot/usr/include/linux/types.h:
+
+/arm64-android-toolchain/sysroot/usr/include/asm/types.h:
+
+/arm64-android-toolchain/sysroot/usr/include/asm-generic/types.h:
+
+/arm64-android-toolchain/sysroot/usr/include/asm-generic/int-ll64.h:
+
+/arm64-android-toolchain/sysroot/usr/include/asm/bitsperlong.h:
+
+/arm64-android-toolchain/sysroot/usr/include/asm-generic/bitsperlong.h:
+
+/arm64-android-toolchain/sysroot/usr/include/linux/posix_types.h:
+
+/arm64-android-toolchain/sysroot/usr/include/linux/stddef.h:
+
+/arm64-android-toolchain/sysroot/usr/include/linux/compiler.h:
+
+/arm64-android-toolchain/sysroot/usr/include/asm/posix_types.h:
+
+/arm64-android-toolchain/sysroot/usr/include/asm-generic/posix_types.h:
+
+/arm64-android-toolchain/sysroot/usr/include/sys/sysmacros.h:
+
+/arm64-android-toolchain/sysroot/usr/include/string.h:
+
+/arm64-android-toolchain/sysroot/usr/include/malloc.h:
+
+/arm64-android-toolchain/sysroot/usr/include/xlocale.h:
+
+/arm64-android-toolchain/sysroot/usr/include/stdlib.h:
+
+/arm64-android-toolchain/sysroot/usr/include/alloca.h:
+
+/arm64-android-toolchain/sysroot/usr/include/strings.h:
+
+/arm64-android-toolchain/sysroot/usr/include/memory.h:
+
+/arm64-android-toolchain/sysroot/usr/include/ctype.h:
+
+libSYS/include/cmdl_parser.h:
+
+libSYS/include/machine_type.h:
+
+libSYS/include/genericStds.h:
