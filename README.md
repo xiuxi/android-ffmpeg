@@ -1,3 +1,17 @@
+https://github.com/alvisisme/android-ffmpeg/tree/master<br>
+docker build . docker ffmpeg_android_64 编译运行.txt<br>
+apt  install docker.io<br>
+git clone https://github.com/alvisisme/android-ffmpeg.git<br>
+https://github.com/xiuxi/android-ffmpeg<br>
+docker build .<br>
+Successfully built <br>
+bc3eed4582e4<br>
+docker run bc3eed4582e4<br>
+apt  install docker-compose<br>
+docker-compose up --build<br>
+
+
+
 # ffmpeg-for-android
 
 [![Build Status](https://img.shields.io/travis/com/alvisisme/android-ffmpeg?style=flat-square)](https://travis-ci.com/alvisisme/android-ffmpeg)
